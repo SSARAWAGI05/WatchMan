@@ -1,0 +1,1686 @@
+2025-03-26 18:27:53,366 - AdvancedSentinel - WARNING - Deep learning model setup failed: name 'ResNet50' is not defined
+2025-03-26 18:27:53,852 - AdvancedSentinel - INFO - Loaded 1 missing people profiles
+2025-03-26 18:27:55,482 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:55,483 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:55,667 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:55,667 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:55,771 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:55,771 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:55,867 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:55,867 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:56,002 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:56,002 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:56,103 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:56,103 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:56,197 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:56,198 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:56,295 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:56,296 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:56,365 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:56,366 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:56,463 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:56,463 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:56,530 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:56,530 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:56,598 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:56,598 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:56,666 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:56,666 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:56,769 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:56,771 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:56,869 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:56,870 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:56,977 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:56,978 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:57,075 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:57,076 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:57,179 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:57,179 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:57,276 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:57,276 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:57,379 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:57,379 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:57,472 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:57,473 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:57,578 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:57,578 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:57,677 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:57,677 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:57,777 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:57,777 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:57,880 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:57,880 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:57,979 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:57,979 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:58,080 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:58,080 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:58,181 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:58,182 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:58,279 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:58,279 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:58,382 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:58,382 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:58,467 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:58,467 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:58,532 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:58,532 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:58,601 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:58,601 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:58,665 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:58,665 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:58,733 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:58,733 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:58,801 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:58,801 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:58,914 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:58,914 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:59,015 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:59,016 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:59,112 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:59,113 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:59,203 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:59,204 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:59,311 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:59,312 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:59,417 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:59,418 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:59,513 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:59,513 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:59,611 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:59,612 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:59,714 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:59,714 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:59,813 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:59,813 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:27:59,913 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:27:59,913 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:00,015 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:00,015 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:00,110 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:00,110 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:00,209 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:00,210 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:00,313 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:00,313 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:00,418 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:00,418 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:00,513 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:00,513 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:00,611 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:00,611 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:00,710 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:00,710 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:00,817 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:00,817 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:00,915 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:00,915 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:01,016 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:01,016 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:01,110 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:01,111 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:01,207 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:01,207 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:01,311 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:01,311 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:01,412 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:01,412 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:01,515 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:01,515 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:01,613 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:01,613 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:01,713 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:01,714 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:01,818 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:01,818 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:01,913 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:01,914 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:02,014 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:02,015 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:02,114 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:02,115 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:02,215 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:02,216 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:02,315 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:02,315 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:02,411 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:02,412 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:02,515 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:02,515 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:02,615 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:02,615 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:02,708 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:02,708 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:02,811 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:02,811 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:02,914 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:02,915 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:03,018 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:03,019 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:03,111 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:03,111 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:03,210 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:03,210 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:03,317 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:03,318 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:03,416 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:03,416 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:03,516 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:03,516 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:03,617 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:03,617 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:03,714 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:03,715 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:03,817 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:03,817 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:04,128 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:04,128 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:04,233 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:04,233 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:04,330 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:04,330 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:04,632 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:04,632 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:04,730 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:04,731 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:04,921 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:04,922 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:05,029 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:05,029 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:05,129 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:05,129 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:05,227 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:05,228 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:05,331 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:05,332 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:05,422 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:05,423 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:06,990 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:06,991 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:07,096 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:07,097 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:07,201 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:07,201 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:07,295 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:07,295 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:07,397 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:07,397 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:07,497 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:07,497 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:07,600 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:07,601 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:07,697 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:07,698 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:07,803 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:07,803 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:07,899 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:07,899 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:07,995 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:07,996 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:08,100 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:08,101 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:08,199 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:08,199 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:08,299 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:08,299 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:08,400 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:08,400 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:08,499 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:08,499 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:08,600 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:08,601 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:08,681 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:08,681 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:08,786 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:08,786 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:08,875 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:08,875 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:08,978 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:08,978 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:09,078 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:09,078 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:09,182 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:09,182 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:09,276 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:09,277 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:09,373 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:09,374 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:09,473 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:09,473 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:09,579 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:09,580 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:09,678 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:09,678 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:09,787 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:09,787 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:09,883 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:09,884 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:09,986 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:09,986 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:10,081 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:10,081 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:10,177 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:10,177 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:10,279 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:10,279 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:10,388 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:10,388 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:10,481 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:10,481 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:10,586 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:10,586 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:10,681 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:10,682 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:10,785 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:10,785 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:10,877 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:10,877 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:10,973 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:10,974 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:11,077 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:11,078 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:11,178 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:11,178 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:11,277 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:11,278 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:11,377 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:11,378 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:11,476 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:11,477 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:11,590 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:11,591 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:11,670 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:11,670 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:11,739 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:11,740 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:11,805 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:11,806 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:11,870 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:11,871 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:11,939 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:11,940 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:12,005 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:12,005 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:12,070 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:12,071 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:12,141 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:12,141 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:12,245 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:12,246 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:12,345 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:12,345 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:12,444 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:12,444 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:12,541 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:12,541 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:12,606 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:12,606 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:12,671 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:12,672 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:12,739 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:12,740 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:12,806 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:12,806 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:12,871 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:12,872 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:12,939 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:12,939 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:13,007 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:13,008 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:13,073 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:13,073 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:13,138 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:13,139 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:13,205 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:13,206 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:13,272 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:13,273 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:13,340 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:13,341 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:13,407 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:13,408 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:13,473 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:13,474 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:13,541 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:13,542 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:13,609 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:13,609 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:13,716 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:13,717 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:13,817 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:13,817 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:13,916 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:13,916 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:14,018 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:14,019 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:14,118 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:14,118 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:14,217 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:14,217 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:14,310 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:14,310 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:14,376 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:14,376 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:14,482 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:14,482 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:14,585 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:14,585 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:14,683 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:14,684 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:14,784 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:14,785 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:14,880 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:14,880 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:14,988 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:14,989 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:15,083 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:15,083 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:15,184 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:15,184 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:15,282 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:15,282 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:15,385 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:15,386 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:15,483 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:15,483 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:15,584 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:15,585 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:15,683 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:15,683 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:15,785 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:15,785 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:15,888 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:15,889 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:15,979 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:15,980 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:16,084 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:16,084 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:16,184 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:16,184 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:16,283 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:16,283 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:16,388 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:16,388 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:16,491 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:16,491 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:16,583 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:16,584 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:16,687 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:16,688 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:16,791 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:16,792 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:16,885 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:16,886 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:16,983 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:16,983 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:17,089 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:17,090 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:17,181 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:17,181 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:17,281 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:17,281 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:17,381 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:17,381 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:17,481 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:17,481 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:17,578 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:17,579 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:17,680 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:17,681 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:17,780 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:17,780 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:17,880 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:17,881 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:17,980 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:17,980 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:18,080 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:18,080 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:18,183 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:18,184 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:18,277 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:18,277 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:18,344 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:18,344 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:18,447 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:18,447 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:18,547 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:18,547 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:18,611 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:18,611 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:18,677 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:18,677 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:18,746 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:18,746 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:18,812 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:18,812 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:18,878 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:18,879 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:18,944 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:18,945 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:19,013 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:19,013 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:19,113 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:19,114 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:19,221 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:19,221 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:19,319 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:19,320 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:19,417 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:19,418 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:19,521 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:19,521 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:19,620 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:19,621 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:19,722 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:19,723 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:19,818 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:19,818 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:19,920 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:19,921 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:20,011 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:20,011 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:20,078 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:20,078 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:20,144 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:20,144 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:20,211 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:20,212 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:20,323 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:20,323 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:20,422 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:20,422 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:21,848 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:21,849 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:21,952 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:21,952 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:22,054 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:22,055 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:22,158 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:22,159 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:22,248 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:22,249 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:22,362 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:22,362 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:22,452 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:22,453 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:22,562 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:22,563 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:22,648 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:22,648 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:22,713 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:22,713 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:22,781 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:22,782 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:22,846 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:22,847 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:22,913 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:22,913 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:22,982 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:22,982 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:23,045 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:23,046 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:23,588 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:23,588 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:23,692 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:23,693 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:23,789 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:23,789 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:24,217 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:24,217 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:24,383 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:24,383 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:24,547 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:24,547 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:24,616 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:24,616 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:24,982 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:24,982 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:25,045 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:25,046 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:25,114 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:25,115 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:25,181 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:25,182 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:25,246 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:25,247 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:25,314 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:25,315 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:25,381 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:25,381 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:25,446 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:25,447 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:25,514 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:25,514 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:25,582 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:25,582 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:25,646 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:25,647 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:25,714 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:25,714 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:25,782 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:25,783 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:25,846 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:25,846 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:25,915 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:25,915 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:25,982 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:25,983 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:26,046 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:26,046 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:26,115 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:26,115 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:26,182 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:26,182 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:26,247 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:26,247 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:26,314 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:26,314 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:26,383 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:26,383 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:26,489 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:26,490 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:26,586 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:26,587 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:26,696 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:26,696 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:26,790 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:26,790 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:26,891 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:26,891 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:26,983 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:26,983 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:27,046 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:27,047 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:27,114 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:27,115 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:27,184 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:27,185 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:27,293 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:27,294 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:27,394 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:27,394 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:27,491 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:27,492 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:27,596 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:27,596 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:27,690 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:27,691 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:27,793 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:27,793 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:27,885 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:27,886 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:27,987 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:27,987 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:28,088 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:28,088 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:28,186 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:28,186 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:28,294 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:28,294 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:28,395 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:28,396 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:28,492 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:28,492 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:28,592 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:28,592 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:28,693 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:28,693 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:28,794 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:28,794 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:28,894 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:28,895 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:28,986 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:28,986 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:29,097 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:29,097 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:29,191 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:29,191 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:29,286 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:29,286 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:29,389 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:29,390 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:29,484 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:29,484 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:29,549 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:29,549 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:29,616 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:29,616 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:29,682 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:29,682 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:29,749 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:29,750 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:29,815 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:29,816 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:29,882 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:29,882 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:29,949 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:29,950 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:30,015 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:30,016 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:30,082 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:30,082 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:30,149 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:30,149 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:30,217 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:30,217 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:30,282 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:30,282 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:30,349 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:30,350 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:30,417 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:30,417 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:30,481 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:30,481 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:30,550 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:30,550 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:30,616 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:30,617 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:30,680 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:30,681 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:30,751 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:30,751 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:30,817 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:30,818 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:30,881 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:30,881 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:30,950 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:30,951 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:31,016 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:31,016 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:31,129 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:31,130 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:31,221 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:31,221 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:31,330 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:31,330 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:31,432 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:31,432 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:31,530 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:31,530 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:31,626 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:31,626 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:31,730 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:31,730 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:31,822 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:31,822 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:31,926 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:31,927 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:32,026 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:32,027 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:32,128 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:32,128 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:32,224 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:32,225 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:32,330 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:32,330 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:32,426 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:32,427 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:32,530 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:32,531 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:32,633 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:32,634 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:32,729 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:32,729 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:32,831 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:32,831 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:32,931 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:32,931 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:33,023 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:33,023 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:33,131 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:33,131 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:33,226 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:33,227 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:33,321 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:33,322 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:33,434 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:33,434 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:33,529 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:33,529 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:33,634 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:33,634 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:33,724 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:33,725 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:33,828 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:33,828 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:33,929 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:33,930 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:34,029 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:34,029 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:34,130 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:34,131 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:34,229 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:34,231 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:34,331 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:34,331 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:34,433 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:34,434 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:34,528 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:34,529 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:34,632 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:34,632 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:34,731 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:34,732 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:34,829 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:34,829 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:34,932 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:34,933 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:35,029 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:35,029 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:35,131 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:35,132 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:35,232 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:35,233 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:35,325 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:35,325 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:35,430 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:35,431 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:35,531 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:35,531 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:35,630 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:35,630 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:35,730 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:35,730 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:35,833 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:35,834 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:35,931 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:35,932 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:36,028 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:36,028 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:36,121 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:36,121 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:36,224 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:36,224 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:36,322 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:36,322 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:36,428 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:36,429 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:36,534 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:36,535 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:36,634 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:36,634 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:36,731 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:36,731 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:36,833 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:36,833 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:36,926 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:36,926 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:37,025 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:37,026 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:37,125 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:37,125 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:37,225 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:37,226 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:37,329 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:37,329 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:37,437 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:37,437 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:37,531 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:37,531 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:37,633 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:37,634 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:37,725 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:37,725 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:37,834 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:37,835 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:37,932 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:37,932 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:38,029 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:38,029 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:38,132 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:38,132 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:38,233 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:38,233 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:38,334 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:38,334 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:38,434 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:38,435 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:38,532 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:38,532 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:38,635 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:38,636 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:38,727 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:38,728 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:38,834 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:38,834 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:38,929 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:38,929 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:39,032 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:39,033 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:39,128 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:39,129 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:39,233 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:39,233 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:39,332 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:39,333 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:39,433 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:39,434 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:39,530 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:39,531 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:39,636 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:39,636 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:39,732 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:39,732 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:39,833 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:39,833 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:39,930 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:39,930 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:40,031 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:40,031 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:40,130 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:40,131 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:40,234 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:40,235 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:40,334 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:40,334 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:40,436 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:40,436 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:40,532 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:40,532 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:40,635 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:40,636 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:40,732 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:40,732 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:40,834 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:40,834 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:40,930 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:40,930 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:41,034 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:41,035 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:41,132 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:41,132 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:41,231 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:41,232 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:41,331 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:41,332 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:41,437 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:41,437 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:41,531 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:41,531 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:41,634 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:41,634 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:41,727 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:41,728 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:41,835 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:41,835 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:41,930 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:41,931 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:42,034 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:42,034 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:42,132 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:42,133 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:42,234 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:42,235 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:42,331 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:42,331 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:42,432 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:42,432 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:42,633 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:42,633 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:42,733 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:42,734 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:42,834 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:42,835 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:42,934 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:42,935 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:43,013 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:43,013 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:43,114 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:43,115 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:43,216 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:43,216 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:43,311 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:43,311 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:43,400 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:43,400 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:43,500 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:43,500 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:43,598 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:43,598 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:43,701 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:43,701 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:43,799 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:43,800 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:44,086 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:44,086 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:44,154 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:44,154 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:44,222 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:44,222 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:44,295 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:44,295 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:44,398 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:44,399 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:44,605 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:44,606 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:44,703 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:44,704 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:44,804 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:44,804 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:44,903 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:44,903 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:45,004 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:45,005 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:45,103 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:45,104 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:45,258 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:45,258 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:45,323 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:45,323 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:45,396 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:45,396 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:45,505 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:45,506 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:45,601 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:45,602 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:45,804 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:45,804 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:46,026 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:46,027 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:46,193 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:46,193 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:46,257 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:46,258 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:46,395 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:46,396 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:46,603 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:46,603 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:47,163 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:47,163 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:47,267 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:47,267 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:47,373 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:47,373 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:47,462 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:47,462 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:47,569 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:47,569 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:47,667 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:47,667 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:47,770 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:47,771 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:47,864 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:47,864 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:47,965 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:47,966 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:48,064 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:48,064 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:48,996 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:48,997 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:49,092 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:49,092 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:49,156 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:49,157 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:49,228 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:49,228 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:49,292 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:49,292 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:49,361 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:49,361 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:49,428 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:49,429 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:49,492 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:49,492 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:49,563 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:49,563 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:49,674 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:49,674 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:49,769 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:49,770 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:49,869 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:49,869 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:49,971 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:49,972 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:50,069 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:50,070 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:50,173 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:50,173 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:50,269 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:50,269 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:50,470 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:50,470 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:50,572 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:50,573 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:50,666 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:50,666 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:50,767 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:50,767 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:50,869 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:50,870 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:50,963 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:50,963 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:51,063 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:51,063 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:51,164 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:51,164 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:51,267 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:51,268 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:51,371 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:51,371 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:51,463 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:51,463 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:51,563 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:51,563 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:51,664 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:51,664 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:51,770 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:51,770 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:51,870 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:51,870 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:51,969 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:51,970 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:52,070 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:52,071 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:52,173 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:52,174 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:52,267 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:52,267 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:52,374 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:52,375 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:52,467 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:52,468 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:52,567 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:52,568 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:52,671 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:52,671 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:52,769 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:52,770 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:52,870 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:52,871 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:52,974 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:52,975 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:53,066 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:53,067 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:53,174 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:53,175 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:53,265 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:53,265 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:53,375 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:53,375 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:53,467 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:53,467 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:53,576 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:53,576 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:53,667 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:53,667 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:53,771 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:53,772 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:53,870 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:53,870 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:53,973 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:53,973 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:54,069 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:54,069 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:54,171 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:54,171 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:54,281 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:54,282 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:54,372 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:54,373 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:54,476 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:54,476 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:54,577 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:54,577 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:54,679 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:54,680 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:54,777 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:54,777 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:54,878 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:54,879 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:54,977 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:54,977 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:55,079 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:55,079 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:55,177 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:55,177 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:55,277 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:55,278 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:55,377 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:55,378 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:55,479 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:55,480 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:55,577 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:55,577 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:55,678 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:55,679 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:55,776 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:55,777 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:55,878 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:55,879 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:55,978 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:55,979 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:56,079 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:56,079 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:56,177 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:56,178 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:56,275 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:56,275 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:56,379 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:56,380 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:56,476 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:56,476 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:56,579 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:56,579 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:56,678 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:56,679 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:56,777 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:56,777 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:56,879 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:56,880 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:56,978 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:56,979 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:57,080 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:57,081 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:57,179 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:57,180 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:57,272 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:57,273 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:57,376 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:57,376 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:57,479 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:57,480 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:57,578 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:57,579 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:57,675 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:57,675 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:57,783 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:57,784 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:57,877 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:57,878 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:57,981 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:57,981 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:58,079 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:58,079 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:58,182 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:58,182 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:58,267 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:58,267 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:58,372 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:58,373 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:58,467 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:58,468 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:58,579 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:58,579 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:58,668 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:58,669 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:58,774 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:58,774 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:58,873 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:58,873 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:58,975 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:58,975 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:59,070 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:59,071 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:59,180 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:59,180 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:59,270 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:59,271 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:59,373 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:59,373 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:59,472 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:59,472 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:59,567 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:59,568 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:59,677 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:59,677 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:59,773 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:59,773 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:59,875 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:59,875 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:28:59,975 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:28:59,976 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:00,065 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:00,065 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:00,129 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:00,129 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:00,201 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:00,201 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:00,309 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:00,309 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:00,409 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:00,409 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:00,505 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:00,505 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:00,611 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:00,612 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:00,702 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:00,702 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:00,815 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:00,815 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:00,963 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:00,964 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:01,034 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:01,035 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:01,137 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:01,137 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:01,242 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:01,243 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:01,344 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:01,344 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:01,438 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:01,438 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:01,545 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:01,546 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:01,645 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:01,646 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:01,742 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:01,742 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:01,844 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:01,845 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:01,944 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:01,944 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:02,043 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:02,043 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:02,143 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:02,143 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:02,236 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:02,236 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:02,343 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:02,344 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:02,442 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:02,443 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:02,543 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:02,544 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:02,643 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:02,643 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:02,731 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:02,732 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:02,800 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:02,800 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:02,913 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:02,913 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:03,011 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:03,012 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:03,112 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:03,112 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:03,213 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:03,213 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:03,311 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:03,312 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:03,414 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:03,414 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:03,511 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:03,511 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:03,614 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:03,614 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:03,704 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:03,705 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:03,812 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:03,812 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:03,913 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:03,913 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:04,011 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:04,011 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:04,114 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:04,114 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:04,213 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:04,213 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:04,313 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:04,313 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:04,410 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:04,410 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:04,504 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:04,505 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:04,616 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:04,616 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:04,712 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:04,712 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:04,823 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:04,824 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:04,914 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:04,914 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:04,915 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:04,915 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:05,023 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:05,023 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:05,023 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:05,024 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:05,121 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:05,122 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:05,122 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:05,122 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:05,222 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:05,222 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:05,223 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:05,223 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:05,315 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:05,315 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:05,316 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:05,316 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:05,423 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:05,423 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:05,424 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:05,424 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:05,516 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:05,516 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:05,516 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:05,516 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:05,620 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:05,621 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:05,621 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:05,621 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:05,715 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:05,715 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:05,715 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:05,715 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:05,790 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:05,790 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:05,791 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:05,791 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:05,902 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:05,902 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:05,902 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:05,903 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:06,000 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:06,000 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:06,000 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:06,001 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:06,100 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:06,100 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:06,100 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:06,100 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:06,202 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:06,202 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:06,203 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:06,203 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:06,299 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:06,299 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:06,299 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:06,300 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:06,403 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:06,403 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:06,403 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:06,404 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:06,497 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:06,497 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:06,497 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:06,497 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:06,599 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:06,599 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:06,599 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:06,599 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:06,698 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:06,698 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:06,698 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:06,698 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:06,806 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:06,806 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:06,807 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:06,807 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:06,901 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:06,901 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:06,902 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:06,902 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:06,992 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:06,992 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:06,993 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:06,993 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:07,086 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:07,087 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:07,188 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:07,188 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:07,292 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:07,293 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:07,396 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:07,397 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:07,494 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:07,494 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:09,146 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:09,147 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:09,348 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:09,348 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:09,451 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:09,452 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:09,546 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:09,546 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:09,650 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:09,651 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:09,746 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:09,746 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:09,853 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:09,854 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:09,944 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:09,945 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:10,048 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:10,049 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:10,146 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:10,146 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:10,240 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:10,240 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:10,339 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:10,340 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:10,439 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:10,439 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:10,535 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:10,535 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:10,602 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:10,603 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:10,669 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:10,670 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:10,735 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:10,735 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:10,805 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:10,805 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:10,908 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:10,908 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:11,004 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:11,004 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:11,077 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:11,078 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:11,188 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:11,188 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:11,297 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:11,297 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:11,373 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:11,373 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:11,481 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:11,481 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:11,587 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:11,588 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:11,696 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:11,697 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:11,800 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:11,800 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:11,893 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:11,893 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:12,000 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:12,000 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:12,095 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:12,095 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:12,195 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:12,196 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:12,292 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:12,292 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:12,400 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:12,400 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:12,496 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:12,496 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:12,597 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:12,597 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:12,684 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:12,685 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:12,802 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:12,803 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:12,884 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:12,885 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:13,002 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:13,002 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:13,089 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:13,089 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:13,193 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:13,194 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:13,291 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:13,291 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:13,375 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:13,375 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:13,478 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:13,478 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:13,580 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:13,580 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:13,679 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:13,679 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:13,783 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:13,784 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:13,875 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:13,875 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:13,980 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:13,981 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:14,083 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:14,083 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:14,177 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:14,177 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:14,284 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:14,284 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:14,383 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:14,384 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:14,479 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:14,480 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:14,585 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:14,585 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:14,683 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:14,684 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:14,784 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:14,784 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:14,880 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:14,881 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:14,983 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:14,983 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:15,081 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:15,081 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:15,182 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:15,182 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:15,269 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:15,270 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:15,339 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:15,339 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:15,407 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:15,407 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:15,472 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:15,472 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:15,540 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:15,540 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:15,607 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:15,608 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:15,713 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:15,714 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:15,817 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:15,818 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:15,916 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:15,916 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:16,013 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:16,013 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:16,108 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:16,108 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:16,216 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:16,217 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:16,317 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:16,317 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:16,419 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:16,419 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:16,509 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:16,510 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:16,615 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:16,615 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:16,712 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:16,713 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:16,815 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:16,816 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:16,917 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:16,917 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:17,017 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:17,018 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:17,117 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:17,117 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:17,212 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:17,212 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:17,319 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:17,319 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:17,418 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:17,419 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:17,517 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:17,517 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:17,614 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:17,615 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:17,717 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:17,717 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:17,819 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:17,819 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:17,919 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:17,919 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:18,016 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:18,017 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:18,117 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:18,117 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:18,216 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:18,217 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:18,316 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:18,316 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:18,412 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:18,412 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:18,513 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:18,514 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:18,616 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:18,616 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:18,717 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:18,717 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:18,812 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:18,812 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:18,915 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:18,915 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:19,014 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:19,014 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:19,118 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:19,118 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:19,216 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:19,216 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:19,322 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:19,322 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:19,420 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:19,421 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:19,508 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:19,508 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:19,574 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:19,575 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:19,685 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:19,686 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:19,784 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:19,784 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:19,883 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:19,884 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:19,987 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:19,988 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:20,076 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:20,076 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:20,141 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:20,141 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:20,211 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:20,212 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:20,321 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:20,321 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:20,423 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:20,423 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:20,519 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:20,519 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:20,618 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:20,619 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:20,714 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:20,715 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:20,822 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:20,823 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:20,918 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:20,918 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:21,009 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:21,010 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:21,112 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:21,112 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:21,212 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:21,213 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:21,312 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:21,313 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:21,421 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:21,421 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:21,518 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:21,519 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:21,617 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:21,617 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
+2025-03-26 18:29:21,718 - AdvancedSentinel - INFO - Missing Person Detected: Shubam Sarawagi
+2025-03-26 18:29:21,718 - AdvancedSentinel - ERROR - Law enforcement notification failed: Object of type datetime is not JSON serializable
