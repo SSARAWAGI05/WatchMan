@@ -1,4 +1,4 @@
-# Advanced Sentinel: AI-Powered Missing Person Detection System
+# WatchMan: AI-Powered Missing Person Detection System
 
 ## Problem Statement
 Traditional missing person searches are limited by manual processes, relying on static methods of identification and tracking. Law enforcement and search teams face significant challenges in:
@@ -7,7 +7,7 @@ Traditional missing person searches are limited by manual processes, relying on 
 - Quickly identifying and alerting relevant authorities
 - Integrating advanced machine learning techniques in search efforts
 
-## Watchman (Solution)
+## WatchMan (Solution)
 Watchman is a cutting-edge, AI-powered missing person detection system that revolutionizes the search and identification process. By leveraging state-of-the-art facial recognition, deep learning, and multi-camera monitoring, the system provides:
 
 - Real-time missing person detection across multiple camera sources
